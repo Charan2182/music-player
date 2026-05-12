@@ -24,8 +24,7 @@ A modern responsive music player built using HTML, CSS and JavaScript.
 ---
 
 ## 🌐 Live Demo
-
-https://your-vercel-link.vercel.app/
+https://charan-music-player.netlify.app/
 
 ---
 
